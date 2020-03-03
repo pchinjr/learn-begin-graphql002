@@ -1,5 +1,5 @@
 @app
-graphql-example
+leaf-y2u
 
 @static
 folder public
